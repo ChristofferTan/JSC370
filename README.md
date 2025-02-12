@@ -10,7 +10,7 @@ Welcome to the **JSC Lab** documentation! This repository contains the lab mater
 | Lab 2 | [Lab2.Rmd](labs/Lab2.Rmd) | [Lab2.html](labs/Lab2.html) |
 | Lab 3 | [Lab3.Rmd](labs/Lab3.Rmd) | [Lab3.html](labs/Lab3.html) |
 | Lab 4 | [Lab4.Rmd](labs/Lab4.Rmd) | [Lab4.html](labs/Lab4.html) |
-| Lab 5 | [Lab5.Rmd](labs/Lab5.Rmd) | [Lab5.html](labs/Lab5.html) |
+| Lab 5 | [Lab5.Rmd](Lab 5/lab05-wrangling-gam.Rmd) | [Lab5.html](labs/Lab5.html) |
 
 *(Update the table above to match your actual lab file names and locations.)*
 
