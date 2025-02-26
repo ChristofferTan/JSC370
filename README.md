@@ -11,6 +11,7 @@ Welcome to the **JSC Lab** documentation! This repository contains the lab mater
 | Lab 4 | [Lab4.Rmd](Lab%204/04-lab-dataviz.Rmd) | [Lab4.html](Lab%204/04-lab-dataviz.html) |
 | Lab 5 | [Lab5.Rmd](Lab%205/lab05-wrangling-gam.Rmd) | [Lab5.html](Lab%205/lab05-wrangling-gam.html) |
 | Lab 6 | [Lab6.Rmd](Lab%206/06-lab.Rmd) | [Lab6.html](Lab%206/06-lab.html) |
+| Lab 8 | [Lab8.Rmd](Lab%208/08lab-text-mining.Rmd) | [Lab8.html](Lab%208/08lab-text-mining.html) |
 
 *(Update the table above to match your actual lab file names and locations.)*
 
